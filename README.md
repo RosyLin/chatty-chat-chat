@@ -24,7 +24,7 @@ The Chatty Chat Chat project is designed to provide a foundational understanding
 
 ## Getting Started
 
-To get started with the Chatty Chat Chat project, clone the repository and follow the setup instructions provided in the [installation guide](link-to-installation-guide).
+To get started with the Chatty Chat Chat project, clone the repository and follow the setup instructions provided.
 
 ## Features
 
